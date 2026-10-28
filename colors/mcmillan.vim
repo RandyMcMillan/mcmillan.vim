@@ -8,7 +8,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "solarized"
+let g:colors_name = "mcmillan"
 
 " Helper function to set GUI and Cterm attributes simultaneously with zero redundancy
 function! s:h(group, fg, bg, attr)
